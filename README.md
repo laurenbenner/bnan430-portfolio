@@ -15,6 +15,7 @@ https://public.tableau.com/views/SouthwestOfficeSolutions_PT2_LaurenBenner/Accou
 If I did this project again, I would check how many distinct values a field has before building a chart with it. I would have saved myself time if I had checked to ensure the chart I was attempting to build was original and couldn't be found elsewhere in the data. 
 
 **Introduction to Power BI**
+
 BNAN 430 - Completed on Sept 22, 2026
 In Flex 3 and 4, XLOOKUP formulas needed to be created to connect data from two different tables before I could start the analysis. Power BI skips that step by automatically finding links between tables as soon as the data loads. In the future for this kind of task, I would use Power BI because it allows for more time to find data insights rather than fixing formulas. However, I would double-check the relationships Power BI creates so that no incorrect connection is formed. 
 https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
