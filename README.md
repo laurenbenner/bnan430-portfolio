@@ -26,4 +26,6 @@ https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en
 
 BNAN 430 - Completed on Sept 29, 2026
 
+In flex 4, I calculated the average cost to serve % by dividing each account's total cost to serve by it's total sales revenue. In power BI, I would build it as a measure because the percentage aspect has to be recalculated from whatever the reader filters to. If I built it as a column, a wrong answer would appear when filters were adjusted based on region, customer tier, quarter, etc. For Anita or Marcus, the number living in the model allows them to click on a region or customer and see its cost to serve right away, without waiting for me to build a new version of the spreadsheet. The number also updates on its own when the data refreshes, so they won't ever make decisions from expired data.
 
+https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
