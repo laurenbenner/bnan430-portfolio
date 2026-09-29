@@ -3,11 +3,15 @@ Portfolio projects from my data visualization course. This will include the comp
 
 **Advancing in Excel and Tableau Part 1**
 
+BNAN 430 - Completed on Sept 10, 2026
+
 Which single product subcategory should Southwest Office Solutions commit its one-time margin recovery plan to, and what evidence justifies that choice? https://public.tableau.com/views/SouthwestOfficeSolutions_MarginAnalysis_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 If I did this project again, I'd pair profit margin with total dollar impact on the company based on volume per subcategory, as it would help the audience determine how much money is truly being lost.
 
 **Advancing in Excel and Tableau Part 2**
+
+BNAN 430 - Completed on Sept 15, 2026
 
 Where is Southwest Office Solutions losing the most money on its accounts, and which single change should be funded to fix it?
 https://public.tableau.com/views/SouthwestOfficeSolutions_PT2_LaurenBenner/AccountPortfolioDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
