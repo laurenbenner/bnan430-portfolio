@@ -33,3 +33,17 @@ BNAN 430 - Completed on Sept 29, 2026
 In flex 4, I calculated the average cost to serve % by dividing each account's total cost to serve by it's total sales revenue. In power BI, I would build it as a measure because the percentage aspect has to be recalculated from whatever the reader filters to. If I built it as a column, a wrong answer would appear when filters were adjusted based on region, customer tier, quarter, etc. For Anita or Marcus, the number living in the model allows them to click on a region or customer and see its cost to serve right away, without waiting for me to build a new version of the spreadsheet. The number also updates on its own when the data refreshes, so they won't ever make decisions from expired data.
 
 https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Data Visualization in Power BI**
+
+BNAN 430 - Completed on Oct 6, 2026
+
+Dear Sarah,
+
+Multiple assignments this semester put Southwest data in front of a decision maker, and I believe these assignments would improve in Power BI.
+In Flex 3, I gave Anita Reyes a sorted bar chart of profit margin by subcategory showing that tables lose 8.46% per sale, nearly three times worse than Bookcases. I colored the negative bars red manually. Using rule-based conditional formatting from my Flex 7 Data Visualization in Power BI course, I would be able to color the bars automatically. Anita would then be able to see at-risk subcategories like Machines before they turn negative.
+Additionally, in Flex 4, my bar chart of cost-to-serve by tier showed Marcus Reyes that Self-Serve accounts cost 21.48% of revenue to serve, versus 12.85% for Inside Sales. If I used a DAX target measure and gauge, which I built in the same course previously stated, Marcus could track monthly whether his cost-to-serve adjustment is working.
+In the future, I'd use Excel when users need to change the inputs themselves, Tableau for exploring new data and viewing one-time decisions, and Power BI for reports people rely on weekly. This is because shared measures and automatic refreshes keep everyone on the same numbers. 
+My honest gap is that I've never published to Power BI Service or maintained a report that others depend on. To close this gap, I'd publish my Flex 3 rebuild to Power BI Service, set a scheduled refresh, and fix any issues that appear.
+
+https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
