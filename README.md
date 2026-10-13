@@ -47,3 +47,12 @@ In the future, I'd use Excel when users need to change the inputs themselves, Ta
 My honest gap is that I've never published to Power BI Service or maintained a report that others depend on. To close this gap, I'd publish my Flex 3 rebuild to Power BI Service, set a scheduled refresh, and fix any issues that appear.
 
 https://public.tableau.com/views/LaurenBenner_PowerBI1/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+**Advancing in Excel and Tableau Part 3**
+
+BNAN 430 - Completed on Oct 13, 2026
+
+Which non-contactless cards should Bear Down Bank include in its single early-replacement batch this quarter, how many are there, and what will it cost?
+https://public.tableau.com/views/AdvExcelTab3_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+If I did this project again, I would confirm that cards replaced through normal renewal are automatically reissued as contactless, because my recommendation to skip the 1,253 cards expiring within six months depends on that assumption.
