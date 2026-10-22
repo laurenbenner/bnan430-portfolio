@@ -62,6 +62,7 @@ If I did this project again, I would confirm that cards replaced through normal 
 BNAN 430 - Completed on Oct 21, 2026
 
 Which customer group should receive the Wildcat Rewards pilot mailing, and how many qualify at the 670 FICO cutoff?
+
 https://public.tableau.com/views/AdvExcelTab4_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 If I did this project again, I would test the pilot recommendation against a second segment, like Gen Z in the Southwest, to see if an even more concentrated group exists.
