@@ -56,3 +56,12 @@ Which non-contactless cards should Bear Down Bank include in its single early-re
 https://public.tableau.com/views/AdvExcelTab3_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 If I did this project again, I would confirm that cards replaced through normal renewal are automatically reissued as contactless, because my recommendation to skip the 1,253 cards expiring within six months depends on that assumption.
+
+**Advancing in Excel and Tableau Part 4**
+
+BNAN 430 - Completed on Oct 21, 2026
+
+Which customer group should receive the Wildcat Rewards pilot mailing, and how many qualify at the 670 FICO cutoff?
+https://public.tableau.com/views/AdvExcelTab4_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+If I did this project again, I would test the pilot recommendation against a second segment, like Gen Z in the Southwest, to see if an even more concentrated group exists.
