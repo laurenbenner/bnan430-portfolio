@@ -73,7 +73,7 @@ BNAN 430 - Completed on Oct 28, 2026
 
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace 440 non-contactless cards early for $3,520 and let the 1,253 that renew within 6 months roll over on schedule.
 
-https://github.com/laurenbenner/bnan430-portfolio/blob/main/adobe/benner-data-storytelling.pdf
+adobe/benner-data-storytelling.pdf
 
 https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:452978ad-f2e7-5f63-a795-3b158f247238?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
 
