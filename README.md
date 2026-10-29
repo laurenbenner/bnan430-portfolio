@@ -71,4 +71,14 @@ If I did this project again, I would test the pilot recommendation against a sec
 
 BNAN 430 - Completed on Oct 28, 2026
 
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace 440 non-contactless cards early for $3,520 and let the 1,253 that renew within 6 months roll over on schedule.
+
+https://github.com/laurenbenner/bnan430-portfolio/blob/main/adobe/benner-data-storytelling.pdf
+
 https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:452978ad-f2e7-5f63-a795-3b158f247238?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
+
+Design choice: I used a timeline bar with a 6-month cutoff line because Renee needs to see which cards to replace now and which to skip. The old bar chart showed each group as a separate bar and used color to mark the recommended cards, but it was easier to replace it with a simple timeline bar on the one-pager. 
+
+Training completed: 
+
+AI use: I used Claude to help name my firm, choose brand colors, ensure my one-page layout was concise, and check to see that all assignment requirements were met.  
