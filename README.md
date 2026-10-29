@@ -79,6 +79,6 @@ https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:452978ad-f2e7-5f63-a
 
 Design choice: I used a timeline bar with a 6-month cutoff line because Renee needs to see which cards to replace now and which to skip. The old bar chart showed each group as a separate bar and used color to mark the recommended cards, but it was easier to replace it with a simple timeline bar on the one-pager. 
 
-Training completed: 
+Training completed: October 28, 2026
 
 AI use: I used Claude to help name my firm, choose brand colors, ensure my one-page layout was concise, and check to see that all assignment requirements were met.  
