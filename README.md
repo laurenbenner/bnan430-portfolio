@@ -66,3 +66,9 @@ Which customer group should receive the Wildcat Rewards pilot mailing, and how m
 https://public.tableau.com/views/AdvExcelTab4_LaurenBenner/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 If I did this project again, I would test the pilot recommendation against a second segment, like Gen Z in the Southwest, to see if an even more concentrated group exists.
+
+**Data Storytelling with Adobe Express**
+
+BNAN 430 - Completed on Oct 28, 2026
+
+https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:452978ad-f2e7-5f63-a795-3b158f247238?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
