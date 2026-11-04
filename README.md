@@ -82,3 +82,17 @@ Design choice: I used a timeline bar with a 6-month cutoff line because Renee ne
 Training completed: October 28, 2026
 
 AI use: I used Claude to help name my firm, choose brand colors that contrast enough according to standards, and check that all assignment requirements were met after completion.  
+
+**Product Pitch with Generative AI in Adobe Express**
+
+BNAN 430 - Completed on Nov 4, 2026
+
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve the $3,520 batch to replace 440 non-contactless cards and a six-week first phase to run the rollout. 
+
+
+
+Toughest objection: "Your analysis already gave us the answer. Why do we need you for six more weeks?" Slide 8 answers it: the card list comes from Sept 30 data, so we recheck all 440 before anything ships, send the 211 longest-waiting customers first, and give a weekly view of cards sent and dollars spent against the $3,520 budget.
+
+Training completed: November 3, 2026
+
+AI use: Check assignment deliverable compared to assignment instructions, recolor for accurate contrast, asking for executive objection on slide 8. No AI-generated images, charts, or data. 
