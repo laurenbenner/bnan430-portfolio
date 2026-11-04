@@ -89,7 +89,9 @@ BNAN 430 - Completed on Nov 4, 2026
 
 Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve the $3,520 batch to replace 440 non-contactless cards and a six-week first phase to run the rollout. 
 
+https://github.com/laurenbenner/bnan430-portfolio/blob/main/adobe/benner-product-pitch.pdf
 
+https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:082de78d-55f2-5f69-94fa-9e87f8daa7b0?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
 
 Toughest objection: "Your analysis already gave us the answer. Why do we need you for six more weeks?" Slide 8 answers it: the card list comes from Sept 30 data, so we recheck all 440 before anything ships, send the 211 longest-waiting customers first, and give a weekly view of cards sent and dollars spent against the $3,520 budget.
 
